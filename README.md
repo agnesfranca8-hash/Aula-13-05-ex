@@ -2,3 +2,7 @@
 Lista de exercícios 
 01-[exercicio 
 ](https://www.programiz.com/online-compiler/4MSuMsjf1nN8Q)
+
+
+02-exercicio
+https://www.programiz.com/online-compiler/3QROQfoNSjhia
