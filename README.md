@@ -6,3 +6,8 @@ Lista de exercícios
 
 02-exercicio
 https://www.programiz.com/online-compiler/3QROQfoNSjhia
+
+
+03- exercicio 
+https://www.programiz.com/online-compiler/3yskukEvLdRi9
+
